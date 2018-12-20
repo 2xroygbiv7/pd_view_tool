@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-@copyright = PatrickViewTool::Renderer.copyright 'fname lname', 'All rights reserved'
+@copyright = PdViewTool::Renderer.copyright 'fname lname', 'All rights reserved'
 ```
 ## Development
 
